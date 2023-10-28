@@ -1,5 +1,5 @@
-##Multi-Class Image Classification##
-#CNN | Computer Vision#
+# Multi-Class Image Classification
+## CNN | Computer Vision
 
 • Developed a robust CNN model for accurate 4-class image classification, employing techniques like dropout and softmax in the final layer 
 
